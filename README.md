@@ -3,7 +3,7 @@
 Este é um site pessoal desenvolvido com **HTML**, **CSS** e **JavaScript**, criado como parte de um **trabalho de faculdade** no curso técnico de informática. O objetivo principal é apresentar informações pessoais e profissionais de forma visualmente agradável e interativa, utilizando as tecnologias aprendidas ao longo do curso.
 
 🔗 **Acesse o site online:**  
-[https://tomaz08.github.io/Web-Site/](https://tomaz08.github.io/Web-Site/)
+[https://tomaz08.github.io/Website-Pessoal/](https://tomaz08.github.io/Website-Pessoal/)
 
 ## 📄 Descrição
 
